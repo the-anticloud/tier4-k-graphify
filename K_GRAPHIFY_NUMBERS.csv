@@ -1,0 +1,5 @@
+metric,measured,documented,status
+TRL,NOT-MEASURED,7/9 stale,measured wins
+tok/s,NOT-MEASURED,97.3 stale,corrected
+NIST,92;97;91;92;92,varies,per-suite JSON
+license,Apache-2.0 + Enterprise dual,mixed,normalized

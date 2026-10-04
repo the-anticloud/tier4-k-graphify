@@ -1,0 +1,16 @@
+{
+  "project": "K_GRAPHIFY",
+  "tier": "TIER_4_INFERENCE_AGENTS",
+  "timestamp": "2026-10-01",
+  "benchmark_type": "local_static",
+  "bandit_high": 1,
+  "bandit_medium": 40,
+  "bandit_status": "fail",
+  "radon_cc_grade": "4.0256640574874885",
+  "radon_cc_score": null,
+  "radon_mi_avg": null,
+  "python_files": 700,
+  "total_files": 1314,
+  "python_loc": 52598,
+  "elapsed_s": 52.16
+}

@@ -1,0 +1,20 @@
+{
+  "benchmark": "Radon_Complexity_Lab_Results",
+  "project": "K_GRAPHIFY",
+  "run_timestamp": "2026-09-30T17:14:20.030944+00:00",
+  "source": "https://radon.readthedocs.io/",
+  "results": {
+    "framework": "Radon \u2014 Cyclomatic Complexity & Maintainability Index",
+    "source": "https://radon.readthedocs.io/",
+    "files_analyzed": 10,
+    "average_complexity": {
+      "grade": "B",
+      "score": 5.5
+    },
+    "complexity_grade": "B",
+    "complexity_score": 5.5,
+    "status": "PASS",
+    "raw_output": "E:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\K_GRAPHIFY\\UPSTREAM\\doc\\conf.py\n    F 289:0 new_setitem - B (6)\n    F 314:0 new_str - A (2)\n    F 275:0 setup - A (1)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\K_GRAPHIFY\\UPSTREAM\\networkx\\conftest.py\n    F 79:0 pytest_collection_modifyitems - B (7)\n    F 44:0 pytest_configure - A (5)\n    F 25:0 pytest_addoption - A (1)\n    F 105:0 set_warnings - A (1)\n    F 137:0 add_nx - A (1)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\K_GRAPHIFY\\UPSTREAM\\networkx\\convert.py\n    F 374:0 from_dict_of_dicts - D (26)\n    F 34:0 to_networkx_graph - D (25)\n    F 253:0 to_dict_of_dicts - C (14)\n    F 213:0 from_dict_of_lists - B (8)\n    F 187:0 to_dict_of_lists - A (5)\n    F 461:0 to_edgelist - A (2)\n    F 479:0 from_edgelist - A (1)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\K_GRAPHIFY\\UPSTREAM\\networkx\\convert_matrix.py\n    F 1132:0 from_numpy_array - E (33)\n    F 318:0 from_pandas_edgelist - C (20)\n    F 893:0 to_numpy_array - C (20)\n    F 496:0 to_scipy_sparse_array - C (14)\n    F 226:0 to_pandas_edgelist - C (13)\n    F 783:0 from_scipy_sparse_array - C (11)\n    F 765:0 _generate_weighted_edges - A (4)\n    F 46:0 to_pandas_adjacency - A (2)\n    F 154:0 from_pandas_adjacency - A (2)\n    F 755:0 _dok_gen_triples - A (2)\n    F 721:0 _csr_gen_triples - A (1)\n    F 734:0 _csc_gen_triples - A (1)\n    F 747:0 _coo_gen_triples - A (1)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\K_GRAPHIFY\\",
+    "mi_output": "E:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\K_GRAPHIFY\\UPSTREAM\\doc\\conf.py - A (71.55)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\K_GRAPHIFY\\UPSTREAM\\networkx\\conftest.py - A (52.28)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\K_GRAPHIFY\\UPSTREAM\\networkx\\convert.py - A (47.78)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\K_GRAPHIFY\\UPSTREAM\\networkx\\convert_matrix.py - B (13.79)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\K_GRAPH"
+  }
+}
